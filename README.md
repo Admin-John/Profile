@@ -71,7 +71,7 @@ in the area of work, where I am eager to collaborate with the members to brainst
   <p><strong>Takeaway</strong></p>
 </center>
 
-
+<iframe title="EXECUTIVE CRM DASHBOARD" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=4997fdb1-7f55-45fb-86c8-63e8b76c48e4&autoAuth=true&embeddedDemo=true" frameborder="0" allowFullScreen="true"></iframe>
 
 <center>
   <p><strong>Recommendations</strong></p>
