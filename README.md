@@ -10,12 +10,18 @@
   </a>
 </div>
 
-<center>
-  <p><strong>PROFILE</strong></p>
-</center>
-
-I am a self-determined individual who learns about new technological tools to aid business operations. I'm passionate about making impact
-in the area of work, where I am eager to collaborate with the members to brainstorm innovative solutions that effectively resolve business uncertainty.
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://avatars.githubusercontent.com/Admin-John" 
+       alt="John Teye Lawer" 
+       width="100" 
+       height="100" 
+       style="border-radius: 50%;" />
+  <div>
+    <p><strong>PROFILE</strong></p>
+    <p>I am a self-determined individual who learns about new technological tools to aid business operations. I'm passionate about making impact
+    in the area of work, where I am eager to collaborate with the members to brainstorm innovative solutions that effectively resolve business uncertainty.</p>
+  </div>
+</div>
 
 <center>
   <p><strong>COMPLETED  PROJECTS</strong></p>
